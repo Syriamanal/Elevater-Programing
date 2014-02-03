@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-int FloorLeaval;
+int FloorLeaval = 0;
 
 cout << "Pleas enter a floor number: 1 - 5 \n";
 cin >> FloorLeaval;
