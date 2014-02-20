@@ -5,6 +5,11 @@ using namespace std;
 
 int main()
 {
+    
+    int loop = 0;
+    
+    while (loop < 500)
+    {
 
 int FloorLeaval = 0;
 
@@ -35,6 +40,7 @@ switch(FloorLeaval)
         break;
         default:
         cout << "Invalid input!";
+    }
     }
 return 0;
 }
