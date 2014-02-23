@@ -21,10 +21,12 @@ switch(FloorLeaval)
         case 1:
         cout << "You enterd " << FloorLeaval;
         cout << "Closeing all doors...";
+        this->closeDoors();
         break;
         case 2:
         cout << "You enterd " << FloorLeaval;
         cout << "Closeing all doors...";
+        this->closeDoors();
         break;
         case 3:
         cout << "You enterd " << FloorLeaval;
